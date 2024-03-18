@@ -18,11 +18,16 @@
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Spring&logoColor=white">
+</div>
+
+<div align=center>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Spring&logoColor=white">
+  
 </div>
 
 <div align=center>
@@ -32,8 +37,7 @@
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/notion-0000006?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Spring&logoColor=white">
   
 </div>
 
