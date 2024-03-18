@@ -23,4 +23,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ## My Stats! 🍭
-  ![](./profile-3d-contrib/profile-season-animate.svg)
+![](./profile-3d-contrib/profile-season-animate.svg)
