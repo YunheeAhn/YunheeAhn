@@ -23,5 +23,4 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 
 ## My Stats! 🍭
-  <img align="center" width="400" src="https://github.com/yunheeahn/yunheeahn/blob/master/github-metrics.svg">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=yunheeahn&theme=cobalt&show_icons=true" /
+  ![](./profile-3d-contrib/profile-green-animate.svg)
