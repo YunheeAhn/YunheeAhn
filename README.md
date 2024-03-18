@@ -3,13 +3,12 @@
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=YUNHEEVERSE⭐&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 </p>
 
-<h3 align=center>
+<h2 align=center>
   프론트엔드 개발자 안윤희입니다. 😀
-</h3>
----
+</h2>
 <h3 align=center>
   렙업중.. 🌳
-</hr>
+</h3>
 <p align=center>  
  ✒ 기획과 트랜드에 관심 있는 개발자 </br>
  ✏ 현재는 프론트엔드 개발 위주로 공부중 </br>
@@ -21,7 +20,6 @@
 <h3 align=center>
   Contact
 </h3>
----
 <p align=center>
   <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/YUNNING--Git--Hub-lightpink?style=for-the-badge&logo=github&logoColor=white"></a>
   <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Portfolio-lavender?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
@@ -32,7 +30,6 @@
 <h3 align=center>
   Tech Stack 🛠
 </h3>
----
 <div align=center>
   <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white">
@@ -72,7 +69,6 @@
 <h3 align=center>
   My Stats! 🍭
 </h3>
----
 <p align=center>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YunheeAhn&show_icons=true&include_all_commits=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YunheeAhn&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
