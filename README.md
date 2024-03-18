@@ -35,21 +35,22 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">
   <img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=chakraui&logoColor=white">
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
   
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+  <img src="https://img.shields.io/badge/adobephotoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white">
+  <img src="https://img.shields.io/badge/adobeillustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white">
 </div>
 
 <div align=center>
-  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/visual-studio-code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 </div>
 
 ## My Stats! 🍭
