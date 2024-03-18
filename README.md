@@ -24,9 +24,9 @@
 </hr>
 <p align=center>
   <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/YUNNING--Git--Hub-lightpink?style=for-the-badge&logo=github&logoColor=white"></a>
-  <a href="ayh95944674@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Portfolio-lavender?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
   <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Tech--blog-yellow?style=for-the-badge&logo=flat&logoColor=white"></a>
+  <a href="ayh95944674@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 <h3 align=center>
