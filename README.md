@@ -1,9 +1,10 @@
 <p align=center>
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=⭐YUNHEEVERSE⭐&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 </p>
-<p align=center>
-## 프론트엔드 개발자 **안윤희**입니다. 😀
-### 렙업중.. 🌳
+<div align-center>
+  
+  ## 프론트엔드 개발자 **안윤희**입니다. 😀
+  ### 렙업중.. 🌳
 
 - ✒ 기획과 트랜드에 관심 있는 개발자
 - ✏ 현재는 프론트엔드 개발 위주로 공부중
@@ -23,7 +24,9 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</p>
+  
+</div>
+
 
 ## My Stats! 🍭
 ![](./profile-3d-contrib/profile-south-season.svg)
