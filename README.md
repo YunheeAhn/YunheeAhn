@@ -4,9 +4,8 @@
 </p>
 
 <h2 align=center>
-  프론트엔드 개발자 **안윤희**입니다. 😀
+  프론트엔드 개발자 안윤희입니다. 😀
 </h3>
-
 <h3 align=center>
   렙업중.. 🌳
 </h3>
@@ -24,7 +23,12 @@
 </h3>
 </hr>
 <p align=center>
-  <a href="https://yunheeverse.tistory.com/"><img src="https://img.shields.io/badge/-blog-black"/></a>
+  [![Github Badge](https://img.shields.io/badge/-YUNHEEVERSE-grey?style=flat&logo=github&logoColor=white&link=https://github.com/YunheeAhn/)](https://github.com/YunheeAhn/) 
+[![Gmail Badge](https://img.shields.io/badge/-ayh95944674@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:ayh95944674@gmail.com) 
+[![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://yunheeahn.github.io/)
+[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://yunheeverse.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/YunheeAhn/)
+[![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
 </p>
 
 
