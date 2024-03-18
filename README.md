@@ -25,9 +25,9 @@
 <p align=center>
 
 <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/YUNNING--Git--Hub-lightpink?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="ayh95944674@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="ayh95944674@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>(mailto:ayh95944674@gmail.com) 
+<a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Portfolio-lightpurple?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-ayh95944674@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:devcseo@gmail.com)](mailto:ayh95944674@gmail.com) 
 [![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://yunheeahn.github.io/)
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://yunheeverse.tistory.com/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/YunheeAhn/)
