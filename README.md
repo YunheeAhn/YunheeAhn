@@ -23,18 +23,11 @@
 </h3>
 </hr>
 <p align=center>
-
-<a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/YUNNING--Git--Hub-lightpink?style=for-the-badge&logo=github&logoColor=white"></a>
-<a href="ayh95944674@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>(mailto:ayh95944674@gmail.com) 
-<a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Portfolio-lightpurple?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
-
-[![GitHub.io](https://img.shields.io/badge/GitHub.io-orange?style=flat&logoColor=white)](https://yunheeahn.github.io/)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-yellow?style=flat&logoColor=white)](https://yunheeverse.tistory.com/)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://github.com/YunheeAhn/)
-[![wakatime](https://wakatime.com/badge/user/4d52d940-efc7-4eda-bca8-afb77a6dfa02.svg)](https://wakatime.com/@4d52d940-efc7-4eda-bca8-afb77a6dfa02)
-
+  <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/YUNNING--Git--Hub-lightpink?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="ayh95944674@gmail.com"><img src="https://img.shields.io/badge/Gmail-c14438?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Portfolio-lavender?style=for-the-badge&logo=stackblitz&logoColor=white"></a>
+  <a href="https://github.com/YunheeAhn/"><img src="https://img.shields.io/badge/Tech--blog-yellow?style=for-the-badge&logo=flat&logoColor=white"></a>
 </p>
-
 
 <h3 align=center>
   Tech Stack 🛠
