@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=150&section=header&text=Yunhee's%20github&fontSize=70&animation=twinkling&fontColor=FFF1F7)
+![header]<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=YUNHEEVERSE🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 
 ## 프론트엔드 개발자 **안윤희**입니다. 😀
 ### 렙업중.. 🌳
