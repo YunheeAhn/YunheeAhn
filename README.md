@@ -26,14 +26,14 @@
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-528DD7?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-%234ED1C?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=Spring&logoColor=white">
 
   
 </div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/chakra-234ED1C5?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/chakraui-319795?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/nodedotjs-339933?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=Spring&logoColor=white">
   
