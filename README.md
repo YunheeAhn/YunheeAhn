@@ -15,9 +15,18 @@
 <a href="https://yunheeverse.tistory.com/"><img src="https://img.shields.io/badge/-blog-black"/></a>
 
 ## Tech Stack 🛠
-<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Spring&logoColor=white">
+<div align=center>
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/jquery-0769AD6?style=for-the-badge&logo=Spring&logoColor=white">
+</div>
 
-  
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Spring&logoColor=white">
+
 
 ## My Stats! 🍭
 
