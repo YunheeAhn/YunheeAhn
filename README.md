@@ -15,7 +15,7 @@
 <a href="https://yunheeverse.tistory.com/"><img src="https://img.shields.io/badge/-blog-black"/></a>
 
 ## Tech Stack 🛠
-<img src="https://img.shields.io/badge/html5?style=for-the-badge&logo=Spring&logoColor=#E34F26">
+<img src="https://img.shields.io/badge/html5?style=for-the-badge&logo=Spring&logoColor=E34F26">
 
   
 
