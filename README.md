@@ -27,6 +27,4 @@
   
 
 ## My Stats! 🍭
-<div align=center> 
 ![](./profile-3d-contrib/profile-south-season.svg)
-</div>
