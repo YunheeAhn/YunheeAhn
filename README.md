@@ -1,7 +1,7 @@
 <p align=center>
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=YUNHEEVERSE🐣&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=E5CCFF&height=160&section=header&text=⭐YUNHEEVERSE⭐&fontSize=90&&animation=fadeIn&fontColor=FFFFFF"></image>
 </p>
-
+<p align=center>
 ## 프론트엔드 개발자 **안윤희**입니다. 😀
 ### 렙업중.. 🌳
 
@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
 
 ## My Stats! 🍭
 ![](./profile-3d-contrib/profile-south-season.svg)
