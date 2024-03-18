@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-528DD7?style=for-the-badge&logo=Spring&logoColor=white">
-  <img src="https://img.shields.io/badge/bootstrap-238511FA?style=for-the-badge&logo=Spring&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%234ED1C?style=for-the-badge&logo=Spring&logoColor=white">
 
   
 </div>
